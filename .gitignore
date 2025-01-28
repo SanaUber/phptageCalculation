@@ -1,0 +1,23 @@
+# Ignore database files
+hr/*.frm
+hr/*.ibd
+hr/*.opt
+*.sql  # Ignore SQL dump files
+
+# Ignore system and editor files
+.DS_Store  # macOS system file
+Thumbs.db  # Windows system file
+*.log  # Log files
+*.bak  # Backup files
+*.tmp  # Temporary files
+*.swp  # Vim swap files
+
+# Ignore images and media (optional)
+*.jpg
+*.png
+*.gif
+
+# Ignore VS Code settings
+.vscode/
+# Ignore environment variable file
+.env

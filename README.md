@@ -1,2 +1,4 @@
-# phptageCalculation
-phptageCalculation
+# phpageCalculation
+run xampp
+
+http://localhost/test/date.php
